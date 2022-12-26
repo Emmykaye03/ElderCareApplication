@@ -3,7 +3,8 @@
 ### CSE 696: University of Louisville
  ###### Created by: Emily Fautz
   
-  Application is made of: 
+  Application is made of:  
+  
   <b>Front End: </b> Angular 14  
   
   <b>Back End: </b> .Net API, Entity Framework as Database Mapping, Azure SQL Database  
